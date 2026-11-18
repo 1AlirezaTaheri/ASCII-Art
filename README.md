@@ -329,5 +329,9 @@ Useful starting points:
 
 ## License
 
-This project is distributed under the [MIT License](https://github.com/TFQ0/ASCII-Art/blob/main/LICENSE).
+This project is distributed under the [MIT License](LICENSE).
+
+## Credits
+
+The original project is by Niladri Pal and Talal Alqahs. This copy is maintained by [Alireza Taheri (@1AlirezaTaheri)](https://github.com/1AlirezaTaheri).
 
